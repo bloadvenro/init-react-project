@@ -35,6 +35,6 @@ cd $ROOT
 yarn
 
 git add .
-git commit -m 'chore: initial commit'
+git commit -m 'chore: add version control'
 
 yarn start
